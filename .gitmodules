@@ -1,6 +1,6 @@
 [submodule ".\\Angular\\"]
 	path = .\\Angular\\
-	url = https://github.com/Da-HaTer/Angular-Dashboard
+	url = https://github.com/Da-HaTer/Angular-Dashboard.git
 [submodule ".\\Express\\"]
 	path = .\\Express\\
-	url = https://github.com/Da-HaTer/Express-server
+	url = https://github.com/Da-HaTer/Express-server.git
