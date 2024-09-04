@@ -20,6 +20,9 @@ refer to [Angular](https://github.com/Da-HaTer/Angular-Dashboard/) and [Express.
 
 
 # How to Run:
+```shell
+git clone --recursive https://github.com/Da-HaTer/Feedback-Dataset
+```
 You can follow the steps provided in the notebook to generate your own version of the dataset or use the one provided in this project ([feedback_dataset_fr.csv ](https://github.com/Da-HaTer/Feedback-Dataset/blob/main/feedback_dataset_fr.csv))
 - Follow the steps provided in [Express.js](https://github.com/Da-HaTer/Express-server/).
 - Run [db_script.py](https://github.com/Da-HaTer/Feedback-Dataset/blob/main/db_script.py) to create the database and insert the data, make sure to install the required python modules and to check your database connection and credentials (make sure you ``./Express/.env`` file exists with a valid path).
