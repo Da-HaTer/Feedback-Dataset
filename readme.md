@@ -24,7 +24,7 @@ refer to [Angular](https://github.com/Da-HaTer/Angular-Dashboard/) and [Express.
 ```shell
 git clone --recursive https://github.com/Da-HaTer/Feedback-Dataset
 ```
-- For Update Submodules
+- Update Submodules
 ```shell
 cd Feedback-Dataset
 git submodule foreach git pull origin main
